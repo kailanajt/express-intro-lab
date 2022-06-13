@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "express-intro-lab",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kailanajt/express-intro-lab.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kailanajt/express-intro-lab/issues"
+  },
+  "homepage": "https://github.com/kailanajt/express-intro-lab#readme"
+}
